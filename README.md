@@ -9,3 +9,5 @@ content coming soon
 go to github site [dpsmith006](http://dpsmith006.github.io)
 
 Repository at [repository](https://github.com/dpsmith006)
+
+[Website repository](https://github.com/dpsmith006/dpsmith006.github.io)
