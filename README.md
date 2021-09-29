@@ -8,6 +8,8 @@ content coming soon
 
 Website dpsmith006 http://dpsmith006.github.io
 
+[Website dpsmith006](http://dpsmith006.github.io)
+
 [Repositories](https://github.com/dpsmith006)
 
 [Website repository](https://github.com/dpsmith006/dpsmith006.github.io)
