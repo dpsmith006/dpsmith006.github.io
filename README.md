@@ -6,7 +6,7 @@ created 12 September 2021
 
 content coming soon
 
-[Wedsite dpsmith006](http://dpsmith006.github.io)
+[Website dpsmith006](http://dpsmith006.github.io)
 
 [Repositories](https://github.com/dpsmith006)
 
