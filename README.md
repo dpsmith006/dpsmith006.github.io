@@ -9,6 +9,6 @@ created 12 September 2021
 
 content coming soon
 
-go to github site http://dpsmith006.github.io
+go to github site [dpsmith006]http://dpsmith006.github.io
 
-Repository at https://github.com/dpsmith006
+Repository at [repository]https://github.com/dpsmith006
